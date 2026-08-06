@@ -1,10 +1,33 @@
-{
-  "programaAtual": "Biblia Kids - Ao Vivo",
-  "proximoPrograma": "Louvores e Mensagens de Fé",
-  "horarioInicio": "08:00",
-  "horarioFim": "10:00"
-  "programaAtual": "Cine Do Reino - Filmes Cristãos",
-  "proximoPrograma": "Clamor da Hora Nona",
-  "horarioInicio": "13:00",
-  "horarioFim": "14:55"
-}
+
+[
+  {
+    "horarioInicio": "08:00",
+    "horarioFim": "10:00",
+    "programaAtual": "Bíblia Kids - Ao Vivo",
+    "proximoPrograma": "Louvores e Mensagens de Fé"
+  },
+  {
+    "horarioInicio": "10:00",
+    "horarioFim": "13:00",
+    "programaAtual": "Louvores e Mensagens de Fé",
+    "proximoPrograma": "Cine Do Reino - Filmes Cristãos"
+  },
+  {
+    "horarioInicio": "13:00",
+    "horarioFim": "14:55",
+    "programaAtual": "Cine Do Reino - Filmes Cristãos",
+    "proximoPrograma": "Clamor da Hora Nona"
+  },
+  {
+    "horarioInicio": "14:55",
+    "horarioFim": "18:00",
+    "programaAtual": "Clamor da Hora Nona",
+    "proximoPrograma": "Culto de Adoração"
+  },
+  {
+    "horarioInicio": "18:00",
+    "horarioFim": "23:59",
+    "programaAtual": "Culto de Adoração",
+    "proximoPrograma": "Bíblia Kids - Ao Vivo"
+  }
+]
