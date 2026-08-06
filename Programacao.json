@@ -1,59 +1,70 @@
 
 [
   {
+    "dias": "seg-sab",
     "horarioInicio": "07:00",
     "horarioFim": "07:10",
     "programaAtual": "Manancial de Vida - Pra. Cris Silva",
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "07:10",
     "horarioFim": "08:00",
     "programaAtual": "Bíblia Kids - Ao Vivo",
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "10:00",
     "horarioFim": "13:00",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "Cine Do Reino - Filmes Cristãos"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "13:00",
     "horarioFim": "14:57",
     "programaAtual": "Cine Do Reino - Filmes Cristãos",
     "proximoPrograma": "Clamor da Hora Nona"
   },
   {
+    "dias": "seg-sex",
     "horarioInicio": "14:58",
     "horarioFim": "15:08",
     "programaAtual": "Clamor da Hora Nona - Bispo  Helio Silva",
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "15:09",
     "horarioFim": "21:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "LIVE AO VIVO - Bispo Helio"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "22:00",
     "horarioFim": "22:35",
     "programaAtual": "LIVE AO VIVO - Bispo Helio",
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "22:36",
     "horarioFim": "23:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "LIVE ORAÇÃO 21 DIAS - Bispo Helio"
   },
   {
+    "dias": "diariamente",
     "horarioInicio": "00:00",
     "horarioFim": "00:08",
     "programaAtual": "LIVE AO VIVO - Bispo Helio",
     "proximoPrograma": Louvores e Mensagens de Fé"
   },
+  {
+    "dias": "diariamente",
     "horarioInicio": "00:09",
     "horarioFim": "06:59",
     "programaAtual": "Louvores e Mensagens de Fé",
