@@ -8,11 +8,18 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "diariamente",
+    "dias": "seg-sab",
     "horarioInicio": "07:10",
     "horarioFim": "08:00",
-    "programaAtual": "Bíblia Kids - Ao Vivo",
-    "proximoPrograma": "Louvores e Mensagens de Fé"
+    "programaAtual": "Louvores e Mensagens de Fé",
+    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos "
+  },
+  {
+    "dias": "diariamente",
+    "horarioInicio": "08:01",
+    "horarioFim": "10:00",
+    "programaAtual": "Bíblia Kids - Desenhos Bíblicos",
+    "proximoPrograma": "Louvores e Mensagens de Fé "
   },
   {
     "dias": "diariamente",
@@ -22,11 +29,18 @@
     "proximoPrograma": "Cine Do Reino - Filmes Cristãos"
   },
   {
-    "dias": "diariamente",
+    "dias": "seg-sab",
     "horarioInicio": "13:00",
     "horarioFim": "14:57",
     "programaAtual": "Cine Do Reino - Filmes Cristãos",
     "proximoPrograma": "Clamor da Hora Nona"
+  },
+  {
+    "dias": "domingo",
+    "horarioInicio": "13:00",
+    "horarioFim": "18:00",
+    "programaAtual": "Cine Do Reino - Filmes Cristãos",
+    "proximoPrograma": "Louvores e Mensagens de Fé "
   },
   {
     "dias": "seg-sab",
@@ -36,8 +50,15 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "diariamente",
+    "dias": "seg-sab",
     "horarioInicio": "15:09",
+    "horarioFim": "21:59",
+    "programaAtual": "Louvores e Mensagens de Fé",
+    "proximoPrograma": "LIVE AO VIVO - Bispo Helio"
+  },
+  {
+    "dias": "domingo",
+    "horarioInicio": "18:01",
     "horarioFim": "21:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "LIVE AO VIVO - Bispo Helio"
@@ -64,10 +85,17 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "diariamente",
+    "dias": "seg-sab",
     "horarioInicio": "00:09",
     "horarioFim": "06:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
+  },
+  {
+    "dias": "domingo",
+    "horarioInicio": "00:09",
+    "horarioFim": "08:00",
+    "programaAtual": "Louvores e Mensagens de Fé",
+    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
   }
 ]
