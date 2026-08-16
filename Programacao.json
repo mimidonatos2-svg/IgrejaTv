@@ -8,6 +8,13 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
+    "dias": "diariamente",
+    "horarioInicio": "15:30",
+    "horarioFim": "17:30",
+    "programaAtual": "Bíblia Kids - Desenhos Bíblicos",
+    "proximoPrograma": "Louvores e Mensagens de Fé"
+  },
+  {
     "dias": "seg-sab",
     "horarioInicio": "07:10",
     "horarioFim": "08:00",
@@ -38,9 +45,9 @@
   {
     "dias": "domingo",
     "horarioInicio": "13:00",
-    "horarioFim": "18:00",
+    "horarioFim": "15:30",
     "programaAtual": "Cine Do Reino - Filmes Cristãos",
-    "proximoPrograma": "Louvores e Mensagens de Fé "
+    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
   },
   {
     "dias": "seg-sab",
@@ -50,15 +57,15 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "seg-sab",
+    "dias": "diariamente",
     "horarioInicio": "15:09",
-    "horarioFim": "21:59",
+    "horarioFim": "15:30",
     "programaAtual": "Louvores e Mensagens de Fé",
-    "proximoPrograma": "PALAVRA NO ALTAR - Bispo Helio"
+    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
   },
   {
     "dias": "domingo",
-    "horarioInicio": "18:01",
+    "horarioInicio": "17:30",
     "horarioFim": "21:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "PALAVRA NO ALTAR - Bispo Helio"
