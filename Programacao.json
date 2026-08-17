@@ -8,13 +8,6 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "diariamente",
-    "horarioInicio": "15:30",
-    "horarioFim": "17:30",
-    "programaAtual": "Bíblia Kids - Desenhos Bíblicos",
-    "proximoPrograma": "Louvores e Mensagens de Fé"
-  },
-  {
     "dias": "seg-sab",
     "horarioInicio": "07:10",
     "horarioFim": "08:00",
@@ -64,7 +57,14 @@
     "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
   },
   {
-    "dias": "domingo",
+    "dias": "diariamente",
+    "horarioInicio": "15:30",
+    "horarioFim": "17:30",
+    "programaAtual": "Bíblia Kids - Desenhos Bíblicos",
+    "proximoPrograma": "Louvores e Mensagens de Fé"
+  },
+  {
+    "dias": "diariamente",
     "horarioInicio": "17:30",
     "horarioFim": "21:59",
     "programaAtual": "Louvores e Mensagens de Fé",
