@@ -78,29 +78,29 @@
     "proximoPrograma": "Louvores e Mensagens de Fé"
   },
   {
-    "dias": "diariamente",
+    "dias": "x",
     "horarioInicio": "22:36",
     "horarioFim": "23:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "LIVE ORAÇÃO 21 DIAS - Bispo Helio"
   },
   {
-    "dias": "diariamente",
-    "horarioInicio": "00:00",
-    "horarioFim": "00:08",
-    "programaAtual": "LIVE ORAÇÃO 21 DIAS - Bispo Helio",
-    "proximoPrograma": "Louvores e Mensagens de Fé"
-  },
-  {
-    "dias": "seg-sab",
-    "horarioInicio": "00:09",
+    "dias": "Domingo",
+    "horarioInicio": "22:36",
     "horarioFim": "06:59",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
   },
   {
-    "dias": "domingo",
-    "horarioInicio": "00:09",
+    "dias": "seg-sexta",
+    "horarioInicio": "22:36",
+    "horarioFim": "06:59",
+    "programaAtual": "Louvores e Mensagens de Fé",
+    "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
+  },
+  {
+    "dias": "sab",
+    "horarioInicio": "22:36",
     "horarioFim": "08:00",
     "programaAtual": "Louvores e Mensagens de Fé",
     "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
