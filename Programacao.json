@@ -16,7 +16,7 @@
   },
   {
     "dias": "diariamente",
-    "horarioInicio": "08:01",
+    "horarioInicio": "08:00",
     "horarioFim": "10:00",
     "programaAtual": "Bíblia Kids - Desenhos Bíblicos",
     "proximoPrograma": "Louvores e Mensagens de Fé "
@@ -31,7 +31,7 @@
   {
     "dias": "seg-sab",
     "horarioInicio": "13:00",
-    "horarioFim": "14:57",
+    "horarioFim": "14:59",
     "programaAtual": "Cine Do Reino - Filmes Cristãos",
     "proximoPrograma": "Clamor da Hora Nona"
   },
@@ -44,7 +44,7 @@
   },
   {
     "dias": "seg-sab",
-    "horarioInicio": "14:58",
+    "horarioInicio": "15:00",
     "horarioFim": "15:08",
     "programaAtual": "Clamor da Hora Nona - Bispo  Helio Silva",
     "proximoPrograma": "Louvores e Mensagens de Fé"
@@ -89,7 +89,7 @@
     "horarioInicio": "22:36",
     "horarioFim": "08:00",
     "programaAtual": "Louvores e Mensagens de Fé",
-    "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
+    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
   },
   {
     "dias": "seg-sab",
