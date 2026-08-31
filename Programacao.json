@@ -87,19 +87,19 @@
   {
     "dias": "Domingo",
     "horarioInicio": "22:36",
-    "horarioFim": "08:00",
+    "horarioFim": "07:00",
     "programaAtual": "Louvores e Mensagens de Fé",
-    "proximoPrograma": "Bíblia Kids - Desenhos Bíblicos"
+    "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
   },
   {
-    "dias": "seg-sab",
+    "dias": "seg-sexta",
     "horarioInicio": "22:36",
-    "horarioFim": "06:59",
+    "horarioFim": "07:00",
     "programaAtual": "Louvores e Mensagens de Fé",
-    "proximoPrograma": "Manancial de Vida - Pra. Cris Silv"
+    "proximoPrograma": "Manancial de Vida - Pra. Cris Silva"
   },
   {
-    "dias": "x",
+    "dias": "sabado",
     "horarioInicio": "22:36",
     "horarioFim": "08:00",
     "programaAtual": "Louvores e Mensagens de Fé",
